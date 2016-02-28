@@ -1,0 +1,48 @@
+_repo: A-Book-of-Operas-Their-Histories-Their-Plots-and-Their-Music_5724
+creator:
+  author:
+    agent_name: Krehbiel, Henry Edward
+    alias: Krehbiel, H. E. (Henry Edward)
+    birthdate: 1854
+    deathdate: 1923
+    gutenberg_agent_id: '1296'
+    url: http://www.gutenberg.org/2009/agents/1296
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Edward_Krehbiel
+description: 'XV. "Die meistersinger von Nurnberg" : "Ridendo castigat mores" ; Wagner''s
+  adherence to classical ideals of tragedy and comedy ; the subject of the satire
+  in "Die meistersinger" ; Wagenseil''s book on Nuremberg ; Plot of the comedy ; The
+  Church of St. Catherine in Nuremberg ; A relic of the mastersingers ; Mastersongs
+  in the municipal Library ; Wagner''s chorus of mastersingers ; A poem by Sixtus
+  Beckmesser ; The German drama in Nuremberg ; Hans Sachs''s plays ; His Tannhauser
+  tragedy ; "Tristram and Iseult" ; "The Wittenberg Nightingale" and "Wach''auf!"
+  ; Wagner''s quotation from an authentic mastersong melody ; Romanticism and classicism
+  ; The prelude to "Die meistersinger" -- XVI. "Lohengrin" : Wolfram von Eschenbach''s
+  story of Loherangrin ; Other sources of the Lohengrin legend ; "Der jungere titurel"
+  and "Le Chevalier au Cygne" ; The plot of Wagner''s opera ; A mixture of myths ;
+  Relationship of the Figaro operas ; Contradictions between "Lohengrin" and "Parsifal"
+  ; The forbidden question ; Wagner''s love of theatrical effect ; The finale of "Tannhauser"
+  ; The law of taboo in "Lohengrin" ; Jupiter and Semele ; Cupid and Psyche ; The
+  saga of Skeaf ; King Henry, the Fowler -- XVII. "Hansel und Gretel" : Wagner''s
+  influence and his successors ; Engelbert Humperdinck ; Myths and fairy tales ; Origin
+  of "Hansel und Gretel" ; First performances ; An application of Wagernian principles
+  ; The prelude ; The prayer theme ; The counter-charm ; Theme of fulfillment ; Story
+  of the opera ; A relic of an old Christmas song ; Theme of the witch ; The theme
+  of promise ; "Ring around a Rosy" ; The "Knusperwalzer."'
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Operas -- Stories, plots, etc.'
+- !lcc 'MT'
+tableOfContents: Il barbiere de Siviglia -- Le nozze di Figaro -- Die Zauberflöte
+  -- Don Giovanni -- Fidelio -- Faust -- Mefistofele -- La damnation de Faust -- La
+  traviata -- Aïda -- Der Freischütz -- Tannhäuser -- Tristan und Isolde -- Parsifal
+  -- Die Meistersinger von Nürnberg -- Lohengrin -- Hänsel and Gretel.
+title: 'A Book of Operas: Their Histories, Their Plots, and Their Music'
+url: http://www.gutenberg.org/ebooks/5724
