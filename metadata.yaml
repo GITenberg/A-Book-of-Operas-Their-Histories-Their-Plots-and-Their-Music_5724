@@ -1,5 +1,8 @@
 _repo: A-Book-of-Operas-Their-Histories-Their-Plots-and-Their-Music_5724
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Krehbiel, Henry Edward
@@ -29,6 +32,8 @@ description: 'XV. "Die meistersinger von Nurnberg" : "Ridendo castigat mores" ; 
   ; The prelude ; The prayer theme ; The counter-charm ; Theme of fulfillment ; Story
   of the opera ; A relic of an old Christmas song ; Theme of the witch ; The theme
   of promise ; "Ring around a Rosy" ; The "Knusperwalzer."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5724#A-Book-of-Operas-Their-Histories-Their-Plots-and-Their-Music
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
