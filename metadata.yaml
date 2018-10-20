@@ -1,5 +1,5 @@
 _repo: A-Book-of-Operas-Their-Histories-Their-Plots-and-Their-Music_5724
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -46,6 +46,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Operas -- Stories, plots, etc.'
 - !lcc 'MT'
+- GITenberg
 tableOfContents: Il barbiere de Siviglia -- Le nozze di Figaro -- Die Zauberflöte
   -- Don Giovanni -- Fidelio -- Faust -- Mefistofele -- La damnation de Faust -- La
   traviata -- Aïda -- Der Freischütz -- Tannhäuser -- Tristan und Isolde -- Parsifal
